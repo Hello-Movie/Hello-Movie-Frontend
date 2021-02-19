@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/Hello-Movie-Frontend/static/js/main.7a12d030.chunk.js",
-    "main.js.map": "/Hello-Movie-Frontend/static/js/main.7a12d030.chunk.js.map",
-    "runtime-main.js": "/Hello-Movie-Frontend/static/js/runtime-main.8b5129c1.js",
-    "runtime-main.js.map": "/Hello-Movie-Frontend/static/js/runtime-main.8b5129c1.js.map",
-    "static/css/2.1f208231.chunk.css": "/Hello-Movie-Frontend/static/css/2.1f208231.chunk.css",
-    "static/js/2.ca00953b.chunk.js": "/Hello-Movie-Frontend/static/js/2.ca00953b.chunk.js",
-    "static/js/2.ca00953b.chunk.js.map": "/Hello-Movie-Frontend/static/js/2.ca00953b.chunk.js.map",
-    "index.html": "/Hello-Movie-Frontend/index.html",
-    "static/css/2.1f208231.chunk.css.map": "/Hello-Movie-Frontend/static/css/2.1f208231.chunk.css.map",
-    "static/js/2.ca00953b.chunk.js.LICENSE.txt": "/Hello-Movie-Frontend/static/js/2.ca00953b.chunk.js.LICENSE.txt",
-    "static/media/email-white-24dp.02e14a9f.svg": "/Hello-Movie-Frontend/static/media/email-white-24dp.02e14a9f.svg",
-    "static/media/movie-white-24dp.944883d5.svg": "/Hello-Movie-Frontend/static/media/movie-white-24dp.944883d5.svg",
-    "static/media/send-white-24dp.d94def9a.svg": "/Hello-Movie-Frontend/static/media/send-white-24dp.d94def9a.svg"
+    "main.js": "/static/js/main.7a12d030.chunk.js",
+    "main.js.map": "/static/js/main.7a12d030.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.395f4562.js",
+    "runtime-main.js.map": "/static/js/runtime-main.395f4562.js.map",
+    "static/css/2.1f208231.chunk.css": "/static/css/2.1f208231.chunk.css",
+    "static/js/2.2ef3bfa8.chunk.js": "/static/js/2.2ef3bfa8.chunk.js",
+    "static/js/2.2ef3bfa8.chunk.js.map": "/static/js/2.2ef3bfa8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/static/css/2.1f208231.chunk.css.map",
+    "static/js/2.2ef3bfa8.chunk.js.LICENSE.txt": "/static/js/2.2ef3bfa8.chunk.js.LICENSE.txt",
+    "static/media/email-white-24dp.02e14a9f.svg": "/static/media/email-white-24dp.02e14a9f.svg",
+    "static/media/movie-white-24dp.944883d5.svg": "/static/media/movie-white-24dp.944883d5.svg",
+    "static/media/send-white-24dp.d94def9a.svg": "/static/media/send-white-24dp.d94def9a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b5129c1.js",
+    "static/js/runtime-main.395f4562.js",
     "static/css/2.1f208231.chunk.css",
-    "static/js/2.ca00953b.chunk.js",
+    "static/js/2.2ef3bfa8.chunk.js",
     "static/js/main.7a12d030.chunk.js"
   ]
 }
